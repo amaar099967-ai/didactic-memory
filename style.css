@@ -1,0 +1,12 @@
+body{margin:0;font-family:Tahoma;background:#f4f6f9}
+.login{display:flex;justify-content:center;align-items:center;height:100vh;background:#0b1c2d}
+.card{background:#fff;padding:25px;border-radius:10px;width:320px;text-align:center}
+input,select{width:100%;padding:10px;margin:6px 0}
+button{padding:10px 15px;border:none;border-radius:6px;background:#1e90ff;color:#fff;margin:4px}
+button.secondary{background:#777}
+.credit{font-size:8px;color:#666;margin-top:10px}
+header{background:#0b1c2d;color:#fff;padding:10px;display:flex;justify-content:space-between}
+.toolbar{padding:10px}
+table{width:100%;border-collapse:collapse;background:#fff}
+th,td{border:1px solid #ccc;padding:6px;text-align:center}
+.summary{background:#fff;padding:10px;margin:10px}
